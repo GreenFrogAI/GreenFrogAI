@@ -5,7 +5,7 @@
 - 📫 How to reach me david@greenfrog.ai
 - 😄 Pronouns: 
 - ⚡ Fun fact: I am really a Frog
-
+- 💭😴✨ Dream: build the ultimate AI-powered sustainability and tech strategy & implementation expert system that will allow companies of all industries, all sizes, in all geographies to leapgrog sustainability and reap the benefits of their accelerated transition to more regenerative business models
 <!---
 GreenFrogAI/GreenFrogAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
